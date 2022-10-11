@@ -1,0 +1,9 @@
+.input-container{
+    background-color: black;
+    height: 100px;
+    color: white;
+    justify-content: flex-end;
+    align-items: center;
+    outline: 2px solid black;
+}
+
